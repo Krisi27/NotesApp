@@ -39,6 +39,10 @@ Users can create, edit, delete, search and sort notes. Notes are stored in the b
 - Moment.js
 - UUID
 
+## Disclaimer
+
+This project is for learning purposes and is based on an Udemy tutorial.
+
 ## Project Structure
 
 ```bash
