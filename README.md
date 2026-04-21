@@ -9,6 +9,14 @@ Users can create, edit, delete, search and sort notes. Notes are stored in the b
   <img src="./images/notes-app-preview.png" width="800"/>
 </p>
 
+## Screenshots
+
+### Main Page
+![Main Page](./images/notes-app-preview.png)
+
+### Edit Page
+![Edit Page](./images/edit-page.png)
+
 ## Features
 
 - Create new notes
