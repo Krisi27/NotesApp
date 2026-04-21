@@ -3,6 +3,12 @@
 A simple note-taking web application built with HTML, CSS and JavaScript.  
 Users can create, edit, delete, search and sort notes. Notes are stored in the browser using localStorage.
 
+## Preview
+
+<p align="center">
+  <img src="./images/notes-app-preview.png" width="800"/>
+</p>
+
 ## Features
 
 - Create new notes
