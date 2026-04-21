@@ -53,4 +53,6 @@ NotesApp/
 ├── styles/
 │   └── styles.css
 └── images/
-    └── favicon.jpg
+    ├── favicon.jpg
+    ├── notes-app-preview.png
+    └── edit-page.png
